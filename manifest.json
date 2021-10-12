@@ -9,7 +9,7 @@
     }
 
   ],
-  "start_url": "uni_simulator2021/",
+  "start_url": "./uni_simulator2021",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
