@@ -1,9 +1,0 @@
-.ProfList{
-    display: flex;
-    justify-content: center;
-    flex-flow: row wrap;
-}
-
-.ProfBumper{
-    margin: 1%
-}
