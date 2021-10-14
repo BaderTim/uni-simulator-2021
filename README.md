@@ -1,4 +1,4 @@
-# Uni_Simulator 2021 [![Build on GitHub](https://github.com/BaderTim/uni_simulator2021/actions/workflows/publish.yml/badge.svg?branch=main)](https://github.com/BaderTim/uni_simulator2021/actions/workflows/publish.yml)
+# uni-simulator-2021 [![Build on GitHub](https://github.com/BaderTim/uni_simulator2021/actions/workflows/publish.yml/badge.svg?branch=main)](https://github.com/BaderTim/uni_simulator2021/actions/workflows/publish.yml)
 [![DeepSource](https://deepsource.io/gh/daniel11609/uni_simulator2021.svg/?label=active+issues&show_trend=true&token=jQLXGMOn8jGODE-Paf760L9P)](https://deepsource.io/gh/daniel11609/uni_simulator2021/?ref=repository-badge) [![DeepSource](https://deepsource.io/gh/daniel11609/uni_simulator2021.svg/?label=resolved+issues&show_trend=true&token=jQLXGMOn8jGODE-Paf760L9P)](https://deepsource.io/gh/daniel11609/uni_simulator2021/?ref=repository-badge)
 
 Uni simulator 2021 is a university project within the scope of the Software Engineering I course at the DHBW Ravensburg at the Friedrichshafen campus.
